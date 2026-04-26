@@ -1,69 +1,109 @@
-# 🚀 Competitive Coding Practice – LeetCode Solutions
+# 🚀 Competitive Coding Lab – DSA & Problem Solving
 
-This repository contains my solutions to various **LeetCode problems** as part of my competitive coding course.
-The goal is to build strong problem-solving skills, improve DSA understanding, and prepare for technical interviews.
+This repository contains my **Competitive Coding Lab experiments** consisting of carefully selected problems from **Codeforces** and **LeetCode**, along with structured implementations and lab work (MST & EST files).
+
+The goal is to build a **strong foundation in Data Structures & Algorithms**, develop **problem-solving intuition**, and prepare for **technical interviews in product-based companies**.
 
 ---
 
 ## 📌 About
 
-* 👨‍💻 **Author:** Gurkirat Singh
-* 🎓 **Course:** Competitive Coding
-* 🧠 **Focus Areas:** Data Structures & Algorithms (DSA)
-* 🏁 **Goal:** Crack top product-based companies
-
+- 👨‍💻 **Author:** Gurkirat Singh  
+- 🎓 **Subject:** Competitive Coding Lab  
+- 🧠 **Focus Areas:** Data Structures & Algorithms (DSA)  
+- 🎯 **Goal:** Crack top product-based companies  
 
 ---
 
-## 🧩 Problems Covered
+## 🧩 Experiments Covered
 
-| #    | Problem Name                      | Difficulty | Topic                |
-| ---- | --------------------------------- | ---------- | -------------------- |
-| 79   | Word Search                       | Medium     | Backtracking         |
-| 878  | Nth Magical Number                | Hard       | Binary Search + Math |
-| 2461 | Maximum Sum of Distinct Subarrays | Medium     | Sliding Window       |
-| ...  | More coming soon 🚀               |            |                      |
+| Exp No. | Problem Name                          | Platform   | Topic                          |
+|--------|----------------------------------------|------------|--------------------------------|
+| 1      | Game With Sticks                       | Codeforces | Game Theory                    |
+| 2      | Flipping Game                          | Codeforces | Kadane / Greedy                |
+| 3      | Books                                 | Codeforces | Sliding Window                 |
+| 4      | Not Adjacent Matrix                   | Codeforces | Constructive Algorithms        |
+| 5      | Nth Magical Number                    | LeetCode   | Binary Search + Math           |
+| 6      | Maximum Sum of Distinct Subarrays     | LeetCode   | Sliding Window + Hashing       |
+| 7      | Word Search                          | LeetCode   | Backtracking                   |
+| 8      | Disturbed People                     | Codeforces | Greedy                         |
+| 9      | Ehab and Path-etic MEXs              | Codeforces | Graphs + Greedy                |
+| 10     | Sequential Nim                       | Codeforces | Game Theory                    |
 
 ---
 
 ## ⚙️ Tech Stack
 
-* 💻 Language: Python
-* 🧠 Concepts:
-
-  * Arrays
-  * Sliding Window
-  * Binary Search
-  * Recursion & Backtracking
-  * HashMaps
-  * Dynamic Programming
+- 💻 **Language:** Python  
+- 🧠 **Core Concepts Covered:**
+  - Arrays
+  - Sliding Window
+  - Greedy Algorithms
+  - Binary Search
+  - Backtracking
+  - Graphs
+  - Game Theory
+  - Hashing
+  - Constructive Algorithms
 
 ---
 
 ## 🎯 Learning Approach
 
-* Solve problems **topic-wise**
-* Focus on **understanding patterns**, not memorizing solutions
-* Optimize from brute force → optimal solution
-* Maintain clean and readable code
+- Solve problems **pattern-wise (not randomly)**
+- Focus on **intuition first, code later**
+- Convert **brute force → optimized solutions**
+- Write **clean, readable, and efficient code**
+- Analyze **time & space complexity**
+
+---
+
+## 📂 Repository Structure
+
+
+📦 Competitive-Coding-Lab
+┣ 📂 exp-1
+┣ 📂 exp-2
+┣ 📂 exp-3
+┣ 📂 exp-4
+┣ 📂 exp-5
+┣ 📂 exp-6
+┣ 📂 exp-7
+┣ 📂 exp-8
+┣ 📂 exp-9
+┣ 📂 exp-10
+┣ 📄 MST (Mid Semester Report)
+┣ 📄 EST (End Semester Report)
+┗ 📄 README.md
+
 
 ---
 
 ## 📈 Progress Tracking
 
-* ✅ Regular problem solving
-* 🔄 Continuous improvement
-* 🚀 Building strong DSA foundation
+- ✅ Completed 10 structured lab experiments  
+- 🔄 Practicing consistently  
+- 🚀 Improving problem-solving speed and accuracy  
 
 ---
 
-## 🏆 Why This Repo?
+## 🏆 Why This Repository?
 
-This repository reflects:
+This repository highlights:
 
-* Consistency in problem solving
-* Strong grasp of core DSA concepts
-* Preparation for real-world technical interviews
+- Strong understanding of **core DSA concepts**
+- Ability to solve **real competitive programming problems**
+- Experience with **Codeforces & LeetCode standards**
+- Consistency and structured learning approach
+
+---
+
+## 🔮 Future Plans
+
+- Add more advanced problems (Graphs, DP, Trees)
+- Include detailed explanations for each problem
+- Add complexity analysis for every solution
+- Build a strong interview-ready problem set
 
 ---
 
@@ -73,19 +113,10 @@ This is a personal learning repository, but suggestions and improvements are alw
 
 ---
 
-## ⭐ Future Plans
-
-* Add more problems daily
-* Include detailed explanations
-* Add time & space complexity for each solution
-* Cover advanced topics (Graphs, DP, Trees)
-
----
-
 ## 📌 Note
 
-All problems are solved for **educational purposes** and learning enhancement.
+All problems are solved for **educational purposes** and to strengthen problem-solving skills.
 
 ---
 
-### ⭐ If you find this repo useful, consider giving it a star!
+### ⭐ If you find this repository useful, consider giving it a star!
